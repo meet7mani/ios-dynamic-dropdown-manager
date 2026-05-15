@@ -164,7 +164,7 @@ This dropdown manager can be used for:
 
 Read the full explanation here:
 
-👉 Add your Medium article link here
+👉 https://medium.com/@manpreet.s_92558/building-a-dynamic-dropdown-manager-in-ios-auto-position-search-selection-58e1d0d047c9
 
 ---
 
